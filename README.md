@@ -60,7 +60,23 @@ pyinstaller --onefile --noconsole main.py --icon=nasa_icon.ico
 
 This will create a unique executable, with a nasa icon, and no console displaied at your screen.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+HOW THE PPP LOOKS LIKE?
+
+GRAPHIC USER INTERFACE:
+
+![gui](https://user-images.githubusercontent.com/80376071/120389882-657de600-c303-11eb-9412-5a1b560d4b8e.PNG)
+
+THE APP ICON
+
+![image](https://user-images.githubusercontent.com/80376071/120390015-9100d080-c303-11eb-9502-1fe035552b7d.png)
+
+SMALL PART MY WALLPAPER
+
+![image](https://user-images.githubusercontent.com/80376071/120390322-f0f77700-c303-11eb-87cc-3c6119715f6a.png)
+
+
 
 
 
